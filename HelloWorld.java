@@ -1,5 +1,5 @@
-class HelloWorld{
-main(public Static Void main{}) {
-System.out.println("Hello World second version practice");
+public class HelloWorld{
+public static void main(String[] args) {
+System.out.println("Hello World");
 }
 }
